@@ -9,8 +9,13 @@
 - 제로콜라
 - 앵무새
 
+### SB 코치님이 좋아하는 것들
+- 커피
+- 새
+- 연필
+
 ```javascript
 function(){
-  print('hello World!');
+  print('hello World! I like korean chicken!');
 }
 ```
