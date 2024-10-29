@@ -5,7 +5,7 @@
 let balls = [];
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1000, 600);
   // ball = new Walker();
 
   for (i = 0; i < 15; i++) {
