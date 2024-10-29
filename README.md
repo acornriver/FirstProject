@@ -16,6 +16,6 @@
 
 ```javascript
 function(){
-  print('hello World! I like korean chicken!');
+  print('hello World! I love korean chicken!');
 }
 ```
